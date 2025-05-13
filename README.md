@@ -6,13 +6,13 @@
 
 | Repository | Total Clones |
 |------------|--------------|
-| `AI-trip-planner` | 2 |
+| `AI-trip-planner` | 1 |
 | `AmruthaAmara1` | 67 |
 | `AmruthaAmara1.github.io` | 1 |
-| `CourseEnrollmentPlatform` | 2 |
+| `CourseEnrollmentPlatform` | 1 |
 | `EasyNotes---Note-Taking-Application` | 2 |
-| `Foundational-Machine-Learning-Algorithms` | 3 |
-| `InventoryManagementSystem` | 1 |
-| `MERNBot` | 2 |
+| `Foundational-Machine-Learning-Algorithms` | 2 |
+| `InventoryManagementSystem` | 0 |
+| `MERNBot` | 1 |
 | `StockMarketDashboard` | 1 |
 <!-- TRAFFIC-STATS:END -->
