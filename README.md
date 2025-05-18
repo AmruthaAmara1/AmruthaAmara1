@@ -7,7 +7,7 @@
 | Repository | Clones |
 |------------|--------|
 | `AI-trip-planner` | 1 |
-| `AmruthaAmara1` | 7 |
+| `AmruthaAmara1` | 3 |
 | `AmruthaAmara1.github.io` | 1 |
 | `CourseEnrollmentPlatform` | 1 |
 | `EasyNotes---Note-Taking-Application` | 1 |
