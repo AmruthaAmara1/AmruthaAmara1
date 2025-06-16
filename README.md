@@ -6,11 +6,11 @@
 
 | Repository | Clones |
 |------------|--------|
-| `AI-trip-planner` | 2 |
-| `AmruthaAmara1` | 8 |
+| `AI-trip-planner` | 1 |
+| `AmruthaAmara1` | 3 |
 | `AmruthaAmara1.github.io` | 1 |
 | `CourseEnrollmentPlatform` | 1 |
-| `EasyNotes---Note-Taking-Application` | 1 |
+| `EasyNotes---Note-Taking-Application` | 2 |
 | `Foundational-Machine-Learning-Algorithms` | 1 |
 | `InventoryManagementSystem` | 1 |
 | `MERNBot` | 1 |
